@@ -26,15 +26,5 @@
         <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
         <img alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
       </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3>📊 Estatísticas</h3>
-      <img 
-        align="center" 
-        alt="GitHub Stats" 
-        height="180" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuelfont&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-      />
-    </td>
-  </tr>
+
 </table>
