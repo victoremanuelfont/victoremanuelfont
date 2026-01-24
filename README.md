@@ -66,10 +66,6 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
 
 <div align="center">
 
-<a href="mailto:victoremanuelfont3@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
-</a>
-
 <a href="https://www.linkedin.com/in/victor-emanuel-666865170/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
 </a>
