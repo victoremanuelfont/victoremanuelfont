@@ -48,6 +48,7 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
 
 <br>
 
+
 ## <span style="color: #00FF41">$ ./show_stats.sh</span>
 
 <div align="center">
@@ -55,7 +56,7 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=victoremanuelfont&show_icons=true&bg_color=0d1117&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" />
   </a>
   <a href="https://github.com/victoremanuelfont">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuelfont&layout=compact&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=ffffff" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuelfont&layout=compact&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=ffffff&hide=c,c++" />
   </a>
 </div>
 
