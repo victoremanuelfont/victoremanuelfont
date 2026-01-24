@@ -30,6 +30,15 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
 
 > `$ echo "Code hard, learn forever."`
 
+<br>
+
+## <span style="color: #00FF41">$ ls -R ./repositories</span>
+
+* **APIs RESTful & Padrão de Camadas (Layered Pattern)**
+* **Estudos de Conceitos & Anotações (Docs)**
+* **Problem Solving (LeetCode & Algoritmos)**
+* **Atividades de Engenharia & Projetos Acadêmicos**
+
 <br clear="all">
 
 ## <span style="color: #00FF41">$ ls ./stack</span>
