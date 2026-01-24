@@ -1,30 +1,83 @@
-# Victor Emanuel
+<!-- ================= HERO / BANNER ================= -->
 
-**`🚀 Desenvolvedor Back-end | 🐧 Linux | ☕ Java & Spring Boot`**
-
-🎓 Graduando em Engenharia de Computação pela Universidade Federal do Ceará - UFC
-
-💻 Especializando-me no ecossistema Java & Spring Boot para Back-end 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%24+echo+%22Engenharia+de+Computa%C3%A7%C3%A3o%22;%24+.%2Frun-backend.sh+--java+--spring;%24+sudo+apt-get+install+--all-techs" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🤖 Linguagens e Tecnologias</h3>
-      <div style="display: inline-block;">
-        <img alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-        <img alt="Spring" title="Spring Boot" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-        <img alt="C" title="C" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-        <img alt="C++" title="C++" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-        <br><br>
-        <img alt="HTML" title="HTML" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-        <img alt="CSS" title="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-        <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <br><br>
-        <img alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-        <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-        <img alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-      </div>
+## <span style="color: #00FF41">user@victor:~$ whoami</span>
 
-</table>
+<img align="right" src="https://raw.githubusercontent.com/victoremanuelfont/repositorio-imagem/main/ghost.gif" width="480" alt="GIF Cyberpunk de uma ciborgue" />
+
+Eu sou o **Victor Emanuel**, Engenheiro de Computação em formação.
+
+Meu foco é **Backend**, **Linux** e **Java/Spring**. Escolhi o rigor dessas tecnologias propositalmente: elas forjam a base lógica sólida que me dá liberdade para aprender qualquer ferramenta, independente do objetivo.
+
+Para mim, entender a complexidade agora é o caminho para ter liberdade de aprender qualquer coisa depois.
+
+**$ cat skills.txt**
+
+> _Carregando módulos principais..._
+
+* `[OK]` **Java & Spring Boot**
+* `[OK]` **Linux & Bash Scripting**
+* `[OK]` **Engenharia de Software**
+* `[LOADING]` **Arquitetura de Sistemas** 🟢
+
+<br>
+
+> `$ echo "Code hard, learn forever."`
+
+<br clear="all">
+
+## <span style="color: #00FF41">$ ls ./stack</span>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,c,cpp,python,matlab,html,css,git,github&theme=dark" />
+</div>
+
+<br>
+
+## <span style="color: #00FF41">$ ls -R ./repositories</span>
+
+* **APIs RESTful & Padrão de Camadas (Layered Pattern)**
+* **Estudos de Conceitos & Anotações (Docs)**
+* **Problem Solving (LeetCode & Algoritmos)**
+* **Atividades de Engenharia & Projetos Acadêmicos**
+
+<br>
+
+## <span style="color: #00FF41">$ ./show_stats.sh</span>
+
+<div align="center">
+  <a href="https://github.com/victoremanuelfont">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=victoremanuelfont&show_icons=true&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/victoremanuelfont">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuelfont&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=ffffff" />
+  </a>
+</div>
+
+<br>
+
+## <span style="color: #00FF41">$ ./connect.sh</span>
+
+<div align="center">
+
+<a href="mailto:victoremanuelfont3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+</a>
+
+<a href="https://www.linkedin.com/in/victor-emanuel-666865170/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  ⚡ <strong>Código com intenção. Arquitetura com propósito.</strong> ⚡
+</div>
