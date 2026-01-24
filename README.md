@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%24+echo+%22Engenharia+de+Computa%C3%A7%C3%A3o%22;%24+.%2Frun-backend.sh+--java+--spring;%24+sudo+apt-get+install+--all-techs" alt="Typing SVG" />
   </a>
 </p>
----
 
 ## <span style="color: #00FF41">user@victor:~$ whoami</span>
 
