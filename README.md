@@ -40,23 +40,14 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
 
 <br>
 
-## <span style="color: #00FF41">$ ls -R ./repositories</span>
-
-* **APIs RESTful & Padrão de Camadas (Layered Pattern)**
-* **Estudos de Conceitos & Anotações (Docs)**
-* **Problem Solving (LeetCode & Algoritmos)**
-* **Atividades de Engenharia & Projetos Acadêmicos**
-
-<br>
-
 ## <span style="color: #00FF41">$ ./show_stats.sh</span>
 
 <div align="center">
   <a href="https://github.com/victoremanuelfont">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=victoremanuelfont&show_icons=true&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=victoremanuelfont&show_icons=true&bg_color=0d1117&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" />
   </a>
   <a href="https://github.com/victoremanuelfont">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuelfont&layout=compact&theme=transparent&hide_border=true&title_color=00FF41&text_color=ffffff" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuelfont&layout=compact&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=ffffff" />
   </a>
 </div>
 
@@ -66,7 +57,7 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/victor-emanuel-666865170/">
+<a href="https://www.linkedin.com/in/victor-emanuel-666865170/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
 </a>
 
