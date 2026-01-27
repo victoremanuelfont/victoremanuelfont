@@ -8,7 +8,7 @@
 
 ## <span style="color: #00FF41">user@victor:~$ whoami</span>
 
-<img align="right" src="https://raw.githubusercontent.com/victoremanuelfont/repositorio-imagem/main/ghost.gif" width="480" alt="GIF Cyberpunk de uma ciborgue" />
+<!-- <img align="right" src="https://raw.githubusercontent.com/victoremanuelfont/repositorio-imagem/main/ghost.gif" width="480" alt="GIF Cyberpunk de uma ciborgue" /> -->
 
 Eu sou o **Victor Emanuel**, Engenheiro de Computação em formação.
 
