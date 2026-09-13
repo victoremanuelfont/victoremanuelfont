@@ -18,18 +18,9 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
 
 **$ cat skills.txt**
 
-> _Carregando módulos principais..._
-
 * `[OK]` **Java & Spring Boot**
-* `[OK]` **Linux & Bash Scripting**
 * `[OK]` **Engenharia de Software**
-* `[LOADING]` **Arquitetura de Sistemas** 🟢
 
-<br>
-
-> `$ echo "Code hard, learn forever."`
-
-<br>
 
 ## <span style="color: #00FF41">$ ls -R ./repositories</span>
 
@@ -74,6 +65,3 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
 
 <br>
 
-<div align="center">
-  ⚡ <strong>Código com intenção. Arquitetura com propósito.</strong> ⚡
-</div>
