@@ -34,7 +34,7 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
 ## <span style="color: #00FF41">$ ls ./stack</span>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,c,cpp,python,matlab,html,css,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,c,cpp,python,matlab,html,css,git,github&theme=dark" alt="Stack" />
 </div>
 
 <br>
@@ -44,10 +44,10 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
 
 <div align="center">
   <a href="https://github.com/victoremanuelfont">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=victoremanuelfont&show_icons=true&bg_color=0d1117&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" />
+    <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=victoremanuelfont&show_icons=true&bg_color=0d1117&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&ring_color=00FF41&custom_title=Victor%20Emanuel%27s%20GitHub%20Stats&cache_seconds=86400" />
   </a>
   <a href="https://github.com/victoremanuelfont">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuelfont&layout=compact&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=ffffff&hide=c,c++" />
+    <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuelfont&layout=compact&bg_color=0d1117&hide_border=true&title_color=00FF41&text_color=ffffff&hide=c,c++&cache_seconds=86400" />
   </a>
 </div>
 
@@ -58,10 +58,9 @@ Para mim, entender a complexidade agora é o caminho para ter liberdade de apren
 <div align="center">
 
 <a href="https://www.linkedin.com/in/victor-emanuel-666865170/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
 </a>
 
 </div>
 
 <br>
-
